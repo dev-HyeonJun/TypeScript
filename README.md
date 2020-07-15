@@ -2,4 +2,4 @@
   
 <pre>test</pre>
 
-<code></code>
+<code>var i = 1;</code>
